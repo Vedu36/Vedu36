@@ -3,6 +3,10 @@
 <h3 align="center">A Data Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif">
 
+- 🌱 I’m currently learning **Machine learning, Data Analytic, Predictive Analysis**
+
+- 👨‍💻 All of my projects are available in Github Repository
+
 - 📫 How to reach me **vedagrawal1234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
