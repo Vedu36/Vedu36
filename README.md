@@ -3,7 +3,7 @@
 <h3 align="center">A Data Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif">
 
-- 🌱 I’m currently learning **Machine learning, Data Analytic, Predictive Analysis**
+- 🌱 I’m currently learning **Agentic AI, RAGs, Machine learning**
 
 - 👨‍💻 All of my projects are available in Github Repository
 
